@@ -4,699 +4,1296 @@
     "width": 1280,
     "height": 960,
     "format": "JPEG",
-    "file_size_kb": 592.88
+    "file_size_kb": 592.88,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%25D0%2592%25D0%25B5%25D0%25BB%25D0%25B8%25D0%25B2%25D0%25B0%25D1%2580%2520%2528%25D0%2594%25D0%25B5%25D1%2588%25D0%25B0%25D1%2582%2529%252004.jpg",
+    "license": {},
+    "exif": {
+      "Make": "SONY",
+      "Model": "DSC-P120",
+      "DateTime": "2017:04:14 12:43:19"
+    }
   },
   {
     "file_name": "%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%93%D0%BE%D1%80%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BA%D0%B0.jpg",
     "width": 3886,
     "height": 2591,
     "format": "JPEG",
-    "file_size_kb": 3642.53
+    "file_size_kb": 3642.53,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%25D0%2592%25D1%2583%25D0%25BB%25D0%25BA%25D0%25B0%25D0%25BD%2520%25D0%2593%25D0%25BE%25D1%2580%25D0%25B5%25D0%25BB%25D1%258B%25D0%25B9%2520%25D0%259A%25D0%25B0%25D0%25BC%25D1%2587%25D0%25B0%25D1%2582%25D0%25BA%25D0%25B0.jpg",
+    "license": {},
+    "exif": {
+      "Make": "DJI",
+      "Model": "FC3170",
+      "DateTime": "2022:08:03 18:42:17"
+    }
   },
   {
     "file_name": "00%202399%20Mount%20Ararat%2C%20Turkey.jpg",
     "width": 3300,
     "height": 2200,
     "format": "JPEG",
-    "file_size_kb": 7694.01
+    "file_size_kb": 7694.01,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/00%25202399%2520Mount%2520Ararat%252C%2520Turkey.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS 5D",
+      "DateTime": "2020:01:10 12:09:41"
+    }
   },
   {
     "file_name": "006Spirit%20Lake%20pre%20resize%20%2822027452382%29.jpg",
     "width": 1192,
     "height": 800,
     "format": "JPEG",
-    "file_size_kb": 221.55
+    "file_size_kb": 221.55,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/006Spirit%2520Lake%2520pre%2520resize%2520%252822027452382%2529.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Nikon",
+      "DateTime": "2006:09:25 10:46:36"
+    }
   },
   {
     "file_name": "2006-05-21-153901%20Iceland%20St%C3%B3rin%C3%BApur.jpg",
     "width": 2048,
     "height": 1536,
     "format": "JPEG",
-    "file_size_kb": 2196.78
+    "file_size_kb": 2196.78,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/2006-05-21-153901%2520Iceland%2520St%25C3%25B3rin%25C3%25BApur.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON",
+      "Model": "E8800",
+      "DateTime": "2010:02:01 22:11:02"
+    }
   },
   {
     "file_name": "981012-Damavand-South-IMG%209861-2.jpg",
     "width": 3628,
     "height": 2219,
     "format": "JPEG",
-    "file_size_kb": 2364.81
+    "file_size_kb": 2364.81,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/981012-Damavand-South-IMG%25209861-2.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon\u0000",
+      "Model": "Canon EOS 50D\u0000",
+      "DateTime": "2020:01:09 21:51:41"
+    }
   },
   {
     "file_name": "Acamarachi%20Volcano.jpg",
     "width": 800,
     "height": 532,
     "format": "JPEG",
-    "file_size_kb": 173.28
+    "file_size_kb": 173.28,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Acamarachi%2520Volcano.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D70s",
+      "DateTime": "2005:11:18 00:03:31"
+    }
   },
   {
     "file_name": "Acotango.jpg",
     "width": 640,
     "height": 408,
     "format": "JPEG",
-    "file_size_kb": 21.03
+    "file_size_kb": 21.03,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Acotango.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Akademia%20nauk.jpg",
     "width": 640,
     "height": 415,
     "format": "JPEG",
-    "file_size_kb": 50.69
+    "file_size_kb": 50.69,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Akademia%2520nauk.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Alutu.jpg",
     "width": 948,
     "height": 745,
     "format": "JPEG",
-    "file_size_kb": 569.03
+    "file_size_kb": 569.03,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alutu.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {
+      "DateTime": "2016:11:21 15:50:40"
+    }
   },
   {
     "file_name": "Antisana.jpg",
     "width": 1150,
     "height": 800,
     "format": "JPEG",
-    "file_size_kb": 67.64
+    "file_size_kb": 67.64,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antisana.jpg",
+    "license": {
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "exif": {
+      "DateTime": "2022:08:18 07:25:25"
+    }
   },
   {
     "file_name": "Antofalla-sunset.jpg",
     "width": 574,
     "height": 338,
     "format": "JPEG",
-    "file_size_kb": 71.83
+    "file_size_kb": 71.83,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antofalla-sunset.jpg",
+    "license": {
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0"
+    },
+    "exif": {}
   },
   {
     "file_name": "Aracar.jpg",
     "width": 640,
     "height": 457,
     "format": "JPEG",
-    "file_size_kb": 42.96
+    "file_size_kb": 42.96,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aracar.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Baitou%20Mountain%20Tianchi.jpg",
     "width": 779,
     "height": 563,
     "format": "JPEG",
-    "file_size_kb": 101.69
+    "file_size_kb": 101.69,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baitou%2520Mountain%2520Tianchi.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Bear%20Seamount.jpg",
     "width": 600,
     "height": 496,
     "format": "JPEG",
-    "file_size_kb": 100.12
+    "file_size_kb": 100.12,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bear%2520Seamount.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2003:06:24 10:56:55"
+    }
   },
   {
     "file_name": "COLLECTIE%20TROPENMUSEUM%20Gezicht%20op%20de%20vulkaan%20Welirang%20vanaf%20de%20Widodaren%20TMnr%2010023577.jpg",
     "width": 700,
     "height": 517,
     "format": "JPEG",
-    "file_size_kb": 42.92
+    "file_size_kb": 42.92,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE%2520TROPENMUSEUM%2520Gezicht%2520op%2520de%2520vulkaan%2520Welirang%2520vanaf%2520de%2520Widodaren%2520TMnr%252010023577.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Caldera%20Mt%20Tambora%20Sumbawa%20Indonesia.jpg",
     "width": 900,
     "height": 600,
     "format": "JPEG",
-    "file_size_kb": 150.95
+    "file_size_kb": 150.95,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caldera%2520Mt%2520Tambora%2520Sumbawa%2520Indonesia.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS REBEL T2i",
+      "DateTime": "2011:06:29 22:12:55"
+    }
   },
   {
     "file_name": "Cavehill%2C%20Belfast.jpg",
     "width": 1024,
     "height": 768,
     "format": "JPEG",
-    "file_size_kb": 484.02
+    "file_size_kb": 484.02,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cavehill%252C%2520Belfast.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "CrozetMapEst.png",
     "width": 390,
     "height": 274,
     "format": "PNG",
-    "file_size_kb": 39.22
+    "file_size_kb": 39.22,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/CrozetMapEst.png",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Descabezado.jpg",
     "width": 800,
     "height": 569,
     "format": "JPEG",
-    "file_size_kb": 104.6
+    "file_size_kb": 104.6,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Descabezado.jpg",
+    "license": {
+      "license_short": "GPL",
+      "license_url": "http://www.gnu.org/licenses/gpl.html",
+      "usage_terms": "GNU General Public License"
+    },
+    "exif": {}
   },
   {
     "file_name": "DonPedro%20Antillanca.jpg",
     "width": 2304,
     "height": 1728,
     "format": "JPEG",
-    "file_size_kb": 513.21
+    "file_size_kb": 513.21,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/DonPedro%2520Antillanca.jpg",
+    "license": {},
+    "exif": {
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX6490 ZOOM DIGITAL CAMERA"
+    }
   },
   {
     "file_name": "Doyle%27s%20Delight.jpg",
     "width": 640,
     "height": 480,
     "format": "JPEG",
-    "file_size_kb": 83.87
+    "file_size_kb": 83.87,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Doyle%2527s%2520Delight.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Fonualei.jpg",
     "width": 483,
     "height": 311,
     "format": "JPEG",
-    "file_size_kb": 41.32
+    "file_size_kb": 41.32,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fonualei.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Furka%2054.JPG",
     "width": 2048,
     "height": 1536,
     "format": "JPEG",
-    "file_size_kb": 847.18
+    "file_size_kb": 847.18,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Furka%252054.JPG",
+    "license": {},
+    "exif": {
+      "Make": "Minolta Co., Ltd.",
+      "Model": "DiMAGE S304",
+      "DateTime": "2004:09:01 13:24:53"
+    }
   },
   {
     "file_name": "Gunung%20Kaba.jpg",
     "width": 640,
     "height": 460,
     "format": "JPEG",
-    "file_size_kb": 60.2
+    "file_size_kb": 60.2,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gunung%2520Kaba.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Gunung%20Sirung%20caldera.jpg",
     "width": 640,
     "height": 431,
     "format": "JPEG",
-    "file_size_kb": 38.57
+    "file_size_kb": 38.57,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gunung%2520Sirung%2520caldera.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Gunung%20rajabasa.jpg",
     "width": 700,
     "height": 393,
     "format": "JPEG",
-    "file_size_kb": 46.1
+    "file_size_kb": 46.1,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gunung%2520rajabasa.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2018:06:29 09:37:34"
+    }
   },
   {
     "file_name": "Habitat%20du%20Chinchilla%20brevicaudata%20-%20Lllullaillaco.jpg",
     "width": 350,
     "height": 247,
     "format": "JPEG",
-    "file_size_kb": 10.0
+    "file_size_kb": 10.0,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Habitat%2520du%2520Chinchilla%2520brevicaudata%2520-%2520Lllullaillaco.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Hveragerdi6.jpg",
     "width": 1536,
     "height": 1024,
     "format": "JPEG",
-    "file_size_kb": 343.4
+    "file_size_kb": 343.4,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hveragerdi6.jpg",
+    "license": {
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0"
+    },
+    "exif": {}
   },
   {
     "file_name": "Iceland2009-BradWeber-Kerid.jpg",
     "width": 7848,
     "height": 4925,
     "format": "JPEG",
-    "file_size_kb": 32708.36
+    "file_size_kb": 32708.36,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iceland2009-BradWeber-Kerid.jpg",
+    "license": {
+      "license_short": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "usage_terms": "Creative Commons Attribution 3.0"
+    },
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS REBEL T1i",
+      "DateTime": "2009:10:12 01:13:00"
+    }
   },
   {
     "file_name": "Il%20cratere%20del%20Vulcano%20-%20panoramio.jpg",
     "width": 3648,
     "height": 2048,
     "format": "JPEG",
-    "file_size_kb": 1578.46
+    "file_size_kb": 1578.46,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Il%2520cratere%2520del%2520Vulcano%2520-%2520panoramio.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon PowerShot G11",
+      "DateTime": "2012:01:07 15:53:40"
+    }
   },
   {
     "file_name": "Isanotski%20Peaks%20Volcano.jpg",
     "width": 1050,
     "height": 701,
     "format": "JPEG",
-    "file_size_kb": 95.76
+    "file_size_kb": 95.76,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isanotski%2520Peaks%2520Volcano.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2004:07:07 09:54:40"
+    }
   },
   {
     "file_name": "Izu-Oshima-IMG%204759.jpg",
     "width": 1600,
     "height": 1200,
     "format": "JPEG",
-    "file_size_kb": 622.77
+    "file_size_kb": 622.77,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Izu-Oshima-IMG%25204759.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon PowerShot A60",
+      "DateTime": "2007:05:19 13:40:04"
+    }
   },
   {
     "file_name": "Katla%201918.jpg",
     "width": 380,
     "height": 321,
     "format": "JPEG",
-    "file_size_kb": 16.15
+    "file_size_kb": 16.15,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Katla%25201918.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Kawi-Butak.jpg",
     "width": 640,
     "height": 426,
     "format": "JPEG",
-    "file_size_kb": 36.44
+    "file_size_kb": 36.44,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kawi-Butak.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Kelimutu%202007-07-21.jpg",
     "width": 2615,
     "height": 1961,
     "format": "JPEG",
-    "file_size_kb": 1460.81
+    "file_size_kb": 1460.81,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelimutu%25202007-07-21.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D50",
+      "DateTime": "2007:11:12 19:57:46"
+    }
   },
   {
     "file_name": "King%20Peak%20600x450.jpg",
     "width": 600,
     "height": 450,
     "format": "JPEG",
-    "file_size_kb": 255.43
+    "file_size_kb": 255.43,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/King%2520Peak%2520600x450.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS 10D",
+      "DateTime": "2016:03:30 14:32:22"
+    }
   },
   {
     "file_name": "Kodaki%20fuji%20frm%20shojinko%20refurb.jpg",
     "width": 4000,
     "height": 2677,
     "format": "JPEG",
-    "file_size_kb": 4379.9
+    "file_size_kb": 4379.9,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodaki%2520fuji%2520frm%2520shojinko%2520refurb.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2014:10:02 20:51:53"
+    }
   },
   {
     "file_name": "La%20Pel%C3%A9e%20vue%20du%20Carbet.jpg",
     "width": 2256,
     "height": 1504,
     "format": "JPEG",
-    "file_size_kb": 247.26
+    "file_size_kb": 247.26,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%2520Pel%25C3%25A9e%2520vue%2520du%2520Carbet.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Lakes%20Okareka%20and%20Tarawera%2C%20Rotorua%2C%20New%20Zealand%2C%2016%20Oct.%202010%20-%20Flickr%20-%20PhillipC.jpg",
     "width": 3922,
     "height": 2404,
     "format": "JPEG",
-    "file_size_kb": 1990.77
+    "file_size_kb": 1990.77,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lakes%2520Okareka%2520and%2520Tarawera%252C%2520Rotorua%252C%2520New%2520Zealand%252C%252016%2520Oct.%25202010%2520-%2520Flickr%2520-%2520PhillipC.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D90",
+      "DateTime": "2010:10:17 17:06:54"
+    }
   },
   {
     "file_name": "Lascar%202.jpg",
     "width": 900,
     "height": 598,
     "format": "JPEG",
-    "file_size_kb": 353.34
+    "file_size_kb": 353.34,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lascar%25202.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D40",
+      "DateTime": "2010:02:23 02:53:19"
+    }
   },
   {
     "file_name": "Lvinaya%20past%2020070718011232.jpg",
     "width": 980,
     "height": 938,
     "format": "JPEG",
-    "file_size_kb": 543.65
+    "file_size_kb": 543.65,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lvinaya%2520past%252020070718011232.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "MSH82%20st%20helens%20plume%20from%20harrys%20ridge%2005-19-82.jpg",
     "width": 2925,
     "height": 1977,
     "format": "JPEG",
-    "file_size_kb": 3857.59
+    "file_size_kb": 3857.59,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MSH82%2520st%2520helens%2520plume%2520from%2520harrys%2520ridge%252005-19-82.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Main%20Line%20Islands%2C%20NOAA%20bathymetric%20map%20with%20lineations%20%28Horizon%20Guyot%29.jpg",
     "width": 672,
     "height": 336,
     "format": "JPEG",
-    "file_size_kb": 146.29
+    "file_size_kb": 146.29,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Main%2520Line%2520Islands%252C%2520NOAA%2520bathymetric%2520map%2520with%2520lineations%2520%2528Horizon%2520Guyot%2529.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2017:07:05 09:29:14"
+    }
   },
   {
     "file_name": "Marchena%20Island.jpg",
     "width": 615,
     "height": 400,
     "format": "JPEG",
-    "file_size_kb": 31.71
+    "file_size_kb": 31.71,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marchena%2520Island.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Matua.jpg",
     "width": 1322,
     "height": 938,
     "format": "JPEG",
-    "file_size_kb": 114.09
+    "file_size_kb": 114.09,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Matua.jpg",
+    "license": {
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0"
+    },
+    "exif": {
+      "Make": "DSCimg ",
+      "Model": "Cameras ",
+      "DateTime": "2001:01:01 01:01:08"
+    }
   },
   {
     "file_name": "Mauna%20Kea10.jpg",
     "width": 400,
     "height": 301,
     "format": "JPEG",
-    "file_size_kb": 33.74
+    "file_size_kb": 33.74,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mauna%2520Kea10.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON",
+      "Model": "E950",
+      "DateTime": "2003:08:18 19:45:05"
+    }
   },
   {
     "file_name": "Mayon%20Volcano%20as%20of%20March%202020.jpg",
     "width": 1600,
     "height": 900,
     "format": "JPEG",
-    "file_size_kb": 383.69
+    "file_size_kb": 383.69,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mayon%2520Volcano%2520as%2520of%2520March%25202020.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2020:03:14 08:08:02"
+    }
   },
   {
     "file_name": "MayonVolcano.jpg",
     "width": 640,
     "height": 480,
     "format": "JPEG",
-    "file_size_kb": 24.5
+    "file_size_kb": 24.5,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MayonVolcano.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Mexico-Popocatepetl.jpg",
     "width": 3072,
     "height": 2040,
     "format": "JPEG",
-    "file_size_kb": 4335.28
+    "file_size_kb": 4335.28,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mexico-Popocatepetl.jpg",
+    "license": {
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0"
+    },
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS 300D DIGITAL",
+      "DateTime": "2019:03:07 15:19:58"
+    }
   },
   {
     "file_name": "Mkinvarcveri.jpg",
     "width": 640,
     "height": 411,
     "format": "JPEG",
-    "file_size_kb": 24.23
+    "file_size_kb": 24.23,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mkinvarcveri.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Mont%20M%C3%A9zenc%20-%20France.JPG",
     "width": 1600,
     "height": 1200,
     "format": "JPEG",
-    "file_size_kb": 1028.43
+    "file_size_kb": 1028.43,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mont%2520M%25C3%25A9zenc%2520-%2520France.JPG",
+    "license": {},
+    "exif": {
+      "Make": "CASIO COMPUTER CO.,LTD ",
+      "Model": "QV-R40 ",
+      "DateTime": "2006:07:26 13:30:01"
+    }
   },
   {
     "file_name": "Monte%20Peschio%20-%20Monte%20Artemisio%20-%20Maschio%20d%27Ariano.JPG",
     "width": 4500,
     "height": 3160,
     "format": "JPEG",
-    "file_size_kb": 774.07
+    "file_size_kb": 774.07,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monte%2520Peschio%2520-%2520Monte%2520Artemisio%2520-%2520Maschio%2520d%2527Ariano.JPG",
+    "license": {},
+    "exif": {
+      "DateTime": "2008:04:14 21:43:32"
+    }
   },
   {
     "file_name": "Mount%20Agung%2C%20November%202017%20eruption%20-%2027%20Nov%202017%2003.jpg",
     "width": 4032,
     "height": 3024,
     "format": "JPEG",
-    "file_size_kb": 2482.82
+    "file_size_kb": 2482.82,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%2520Agung%252C%2520November%25202017%2520eruption%2520-%252027%2520Nov%25202017%252003.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Apple",
+      "Model": "iPhone 7",
+      "DateTime": "2017:11:27 07:02:35"
+    }
   },
   {
     "file_name": "Mount%20Ararat%20and%20the%20Araratian%20plain%20%28cropped%29.jpg",
     "width": 6060,
     "height": 2041,
     "format": "JPEG",
-    "file_size_kb": 8677.59
+    "file_size_kb": 8677.59,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%2520Ararat%2520and%2520the%2520Araratian%2520plain%2520%2528cropped%2529.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS 60D",
+      "DateTime": "2017:01:12 00:35:15"
+    }
   },
   {
     "file_name": "Mount%20Batur2.JPG",
     "width": 1280,
     "height": 960,
     "format": "JPEG",
-    "file_size_kb": 322.08
+    "file_size_kb": 322.08,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%2520Batur2.JPG",
+    "license": {},
+    "exif": {
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "DateTime": "2003:04:14 16:15:40"
+    }
   },
   {
     "file_name": "Mount%20Merapi%20Not%20Just%20a%20Legend%20and%20Mythology.jpg",
     "width": 5014,
     "height": 3313,
     "format": "JPEG",
-    "file_size_kb": 5152.63
+    "file_size_kb": 5152.63,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%2520Merapi%2520Not%2520Just%2520a%2520Legend%2520and%2520Mythology.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS 1300D",
+      "DateTime": "2019:05:13 13:25:11"
+    }
   },
   {
     "file_name": "Mount%20Rainier%205917s.JPG",
     "width": 4920,
     "height": 4163,
     "format": "JPEG",
-    "file_size_kb": 5067.41
+    "file_size_kb": 5067.41,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%2520Rainier%25205917s.JPG",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS DIGITAL REBEL XSi",
+      "DateTime": "2009:03:20 22:24:50"
+    }
   },
   {
     "file_name": "MountCleveland.jpg",
     "width": 1024,
     "height": 689,
     "format": "JPEG",
-    "file_size_kb": 195.19
+    "file_size_kb": 195.19,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MountCleveland.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "MountRecheshnoi.jpg",
     "width": 1024,
     "height": 687,
     "format": "JPEG",
-    "file_size_kb": 179.64
+    "file_size_kb": 179.64,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MountRecheshnoi.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Mt%20erebus.jpg",
     "width": 640,
     "height": 425,
     "format": "JPEG",
-    "file_size_kb": 57.64
+    "file_size_kb": 57.64,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt%2520erebus.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2006:07:08 09:40:23"
+    }
   },
   {
     "file_name": "Mt.%20Bona%2C%20Alaska.jpg",
     "width": 695,
     "height": 483,
     "format": "JPEG",
-    "file_size_kb": 133.35
+    "file_size_kb": 133.35,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt.%2520Bona%252C%2520Alaska.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "MtChurchill-KlutlanGlacier.jpg",
     "width": 1024,
     "height": 682,
     "format": "JPEG",
-    "file_size_kb": 136.77
+    "file_size_kb": 136.77,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MtChurchill-KlutlanGlacier.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Nabro%20and%20Mallahle%20Volcanoes-NASA.jpg",
     "width": 250,
     "height": 380,
     "format": "JPEG",
-    "file_size_kb": 152.42
+    "file_size_kb": 152.42,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nabro%2520and%2520Mallahle%2520Volcanoes-NASA.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2005:04:17 01:48:27"
+    }
   },
   {
     "file_name": "Neuerburger%20Kopf.jpg",
     "width": 497,
     "height": 235,
     "format": "JPEG",
-    "file_size_kb": 28.85
+    "file_size_kb": 28.85,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neuerburger%2520Kopf.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Nevado%20del%20Ruiz%201985.jpg",
     "width": 981,
     "height": 632,
     "format": "JPEG",
-    "file_size_kb": 46.16
+    "file_size_kb": 46.16,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nevado%2520del%2520Ruiz%25201985.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Otok%20Jabuka%202008.jpeg",
     "width": 1200,
     "height": 800,
     "format": "JPEG",
-    "file_size_kb": 280.23
+    "file_size_kb": 280.23,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Otok%2520Jabuka%25202008.jpeg",
+    "license": {},
+    "exif": {
+      "Make": "OLYMPUS IMAGING CORP.  ",
+      "Model": "E-510           ",
+      "DateTime": "2013:05:25 18:42:39"
+    }
   },
   {
     "file_name": "Peulik%20volcano%20Alaska.jpg",
     "width": 1024,
     "height": 685,
     "format": "JPEG",
-    "file_size_kb": 186.89
+    "file_size_kb": 186.89,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peulik%2520volcano%2520Alaska.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Pic%20du%20midi%20ossau.jpg",
     "width": 375,
     "height": 500,
     "format": "JPEG",
-    "file_size_kb": 85.11
+    "file_size_kb": 85.11,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pic%2520du%2520midi%2520ossau.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Prevo%20ISS%20cut.jpg",
     "width": 1696,
     "height": 1696,
     "format": "JPEG",
-    "file_size_kb": 1035.03
+    "file_size_kb": 1035.03,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prevo%2520ISS%2520cut.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Purchas%20Hill%20remnant.jpg",
     "width": 6120,
     "height": 2448,
     "format": "JPEG",
-    "file_size_kb": 2203.23
+    "file_size_kb": 2203.23,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Purchas%2520Hill%2520remnant.jpg",
+    "license": {},
+    "exif": {
+      "Make": "SONY",
+      "Model": "DSC-H3",
+      "DateTime": "2011:08:22 10:23:31"
+    }
   },
   {
     "file_name": "Rangitoto02.jpg",
     "width": 800,
     "height": 588,
     "format": "JPEG",
-    "file_size_kb": 85.72
+    "file_size_kb": 85.72,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rangitoto02.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Ravensberg.jpg",
     "width": 3456,
     "height": 2304,
     "format": "JPEG",
-    "file_size_kb": 951.58
+    "file_size_kb": 951.58,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ravensberg.jpg",
+    "license": {
+      "license_short": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "usage_terms": "Creative Commons Attribution 3.0"
+    },
+    "exif": {}
   },
   {
     "file_name": "Road%20to%20the%20summit%20of%20Mount%20Telomoyo.jpg",
     "width": 500,
     "height": 375,
     "format": "JPEG",
-    "file_size_kb": 88.04
+    "file_size_kb": 88.04,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Road%2520to%2520the%2520summit%2520of%2520Mount%2520Telomoyo.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Rockall%20Trough.jpg",
     "width": 624,
     "height": 529,
     "format": "JPEG",
-    "file_size_kb": 105.17
+    "file_size_kb": 105.17,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rockall%2520Trough.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Rockeskyller%20Kopf%201.JPG",
     "width": 2048,
     "height": 1536,
     "format": "JPEG",
-    "file_size_kb": 680.13
+    "file_size_kb": 680.13,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rockeskyller%2520Kopf%25201.JPG",
+    "license": {},
+    "exif": {
+      "Make": "RICOH      ",
+      "Model": "Caplio R3      ",
+      "DateTime": "2008:05:01 14:14:16"
+    }
   },
   {
     "file_name": "Santiaguito%20from%20Santamaria.jpg",
     "width": 700,
     "height": 465,
     "format": "JPEG",
-    "file_size_kb": 35.82
+    "file_size_kb": 35.82,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiaguito%2520from%2520Santamaria.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Scharteberg.jpg",
     "width": 3008,
     "height": 2000,
     "format": "JPEG",
-    "file_size_kb": 2662.94
+    "file_size_kb": 2662.94,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scharteberg.jpg",
+    "license": {
+      "license_short": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0"
+    },
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D50",
+      "DateTime": "2007:04:15 16:18:45"
+    }
   },
   {
     "file_name": "Schmidt%20volcano.jpg",
     "width": 640,
     "height": 443,
     "format": "JPEG",
-    "file_size_kb": 68.76
+    "file_size_kb": 68.76,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schmidt%2520volcano.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Seulawaih%20Agam.jpg",
     "width": 636,
     "height": 480,
     "format": "JPEG",
-    "file_size_kb": 101.08
+    "file_size_kb": 101.08,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Seulawaih%2520Agam.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Sidelenhorn%20%26%20Gross%20Furkahorn%20from%20Grimselpass%2C%202010%2007.jpg",
     "width": 2056,
     "height": 1168,
     "format": "JPEG",
-    "file_size_kb": 580.59
+    "file_size_kb": 580.59,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sidelenhorn%2520%2526%2520Gross%2520Furkahorn%2520from%2520Grimselpass%252C%25202010%252007.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon\u0000ÿ",
+      "Model": "Canon EOS 7D\u0000ÿ",
+      "DateTime": "2011:04:29 02:08:42\u0000"
+    }
   },
   {
     "file_name": "Sinabung.jpg",
     "width": 1024,
     "height": 698,
     "format": "JPEG",
-    "file_size_kb": 207.96
+    "file_size_kb": 207.96,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sinabung.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {
+      "DateTime": "2020:09:28 20:56:39"
+    }
   },
   {
     "file_name": "Sn%C3%A6fell%20%40%20Tittlingafell%2002.jpg",
     "width": 5184,
     "height": 3888,
     "format": "MPO",
-    "file_size_kb": 8074.69
+    "file_size_kb": 8074.69,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sn%25C3%25A6fell%2520%2540%2520Tittlingafell%252002.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon PowerShot SX70 HS",
+      "DateTime": "2024:09:06 16:27:47"
+    }
   },
   {
     "file_name": "Sorikmarapi.jpg",
     "width": 640,
     "height": 434,
     "format": "JPEG",
-    "file_size_kb": 36.08
+    "file_size_kb": 36.08,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorikmarapi.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "State%20Route%20504%20eastbound%20approaching%20Mount%20St.%20Helens%20near%20Castle%20Lake.jpg",
     "width": 4908,
     "height": 3258,
     "format": "MPO",
-    "file_size_kb": 6392.02
+    "file_size_kb": 6392.02,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/State%2520Route%2520504%2520eastbound%2520approaching%2520Mount%2520St.%2520Helens%2520near%2520Castle%2520Lake.jpg",
+    "license": {},
+    "exif": {
+      "Make": "SONY",
+      "Model": "NEX-5N",
+      "DateTime": "2022:07:16 20:22:14"
+    }
   },
   {
     "file_name": "Tacora.jpg",
     "width": 640,
     "height": 438,
     "format": "JPEG",
-    "file_size_kb": 48.8
+    "file_size_kb": 48.8,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tacora.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Taftan%20Volcano.jpg",
     "width": 1000,
     "height": 667,
     "format": "JPEG",
-    "file_size_kb": 518.64
+    "file_size_kb": 518.64,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taftan%2520Volcano.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2013:07:24 14:59:26"
+    }
   },
   {
     "file_name": "Talagabodas.jpg",
     "width": 640,
     "height": 363,
     "format": "JPEG",
-    "file_size_kb": 30.9
+    "file_size_kb": 30.9,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Talagabodas.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "Tandikat-Singgalang.jpg",
     "width": 4487,
     "height": 1613,
     "format": "JPEG",
-    "file_size_kb": 1068.49
+    "file_size_kb": 1068.49,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tandikat-Singgalang.jpg",
+    "license": {
+      "license_short": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "usage_terms": "Creative Commons Attribution-Share Alike 2.5"
+    },
+    "exif": {}
   },
   {
     "file_name": "The%20Structure%20Claimed%20to%20be%20the%20Noah%27s%20Ark%20near%20the%20Mount%20Ararat%20in%20Turkey.jpg",
     "width": 1024,
     "height": 768,
     "format": "JPEG",
-    "file_size_kb": 1028.08
+    "file_size_kb": 1028.08,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%2520Structure%2520Claimed%2520to%2520be%2520the%2520Noah%2527s%2520Ark%2520near%2520the%2520Mount%2520Ararat%2520in%2520Turkey.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon PowerShot S50",
+      "DateTime": "2019:03:21 18:18:16"
+    }
   },
   {
     "file_name": "Turkey.Mount%20Erciyes01.jpg",
     "width": 1465,
     "height": 1018,
     "format": "JPEG",
-    "file_size_kb": 475.03
+    "file_size_kb": 475.03,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkey.Mount%2520Erciyes01.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Hewlett-Packard",
+      "Model": "HP PhotoSmart R707 (V01.00)d",
+      "DateTime": "2007:08:30 17:35:03"
+    }
   },
   {
     "file_name": "Ulawun.jpg",
     "width": 640,
     "height": 480,
     "format": "JPEG",
-    "file_size_kb": 52.0
+    "file_size_kb": 52.0,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ulawun.jpg",
+    "license": {
+      "license_short": "Public domain",
+      "license_url": null,
+      "usage_terms": "Public domain"
+    },
+    "exif": {}
   },
   {
     "file_name": "V%C3%B3lcan%20Cotopaxi.jpg",
     "width": 1000,
     "height": 650,
     "format": "JPEG",
-    "file_size_kb": 78.1
+    "file_size_kb": 78.1,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/V%25C3%25B3lcan%2520Cotopaxi.jpg",
+    "license": {},
+    "exif": {
+      "DateTime": "2022:08:23 09:58:36"
+    }
   },
   {
     "file_name": "Volc%C3%A1n%20Chimborazo%20desde%20Riobamba.jpg",
     "width": 3905,
     "height": 2281,
     "format": "JPEG",
-    "file_size_kb": 5314.36
+    "file_size_kb": 5314.36,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volc%25C3%25A1n%2520Chimborazo%2520desde%2520Riobamba.jpg",
+    "license": {},
+    "exif": {
+      "Make": "Canon",
+      "Model": "Canon EOS 7D",
+      "DateTime": "2014:07:22 07:52:33"
+    }
   },
   {
     "file_name": "Volc%C3%A1n%20Domuyo.jpg",
     "width": 1632,
     "height": 1232,
     "format": "JPEG",
-    "file_size_kb": 350.0
+    "file_size_kb": 350.0,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volc%25C3%25A1n%2520Domuyo.jpg",
+    "license": {},
+    "exif": {
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK EASYSHARE CX6230 ZOOM DIGITAL CAMERA"
+    }
   },
   {
     "file_name": "Volc%C3%A1n%20Llaima%20y%20Laguna%20Conguill%C3%ADo%2C%20desde%20Sierra%20Nevada.jpg",
     "width": 5568,
     "height": 3712,
     "format": "JPEG",
-    "file_size_kb": 7267.8
+    "file_size_kb": 7267.8,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volc%25C3%25A1n%2520Llaima%2520y%2520Laguna%2520Conguill%25C3%25ADo%252C%2520desde%2520Sierra%2520Nevada.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D500",
+      "DateTime": "2018:05:05 16:10:50"
+    }
   },
   {
     "file_name": "Volc%C3%A1n%20Purac%C3%A9%20from%20Popay%C3%A1n%20-%202006.jpg",
     "width": 1280,
     "height": 960,
     "format": "JPEG",
-    "file_size_kb": 64.2
+    "file_size_kb": 64.2,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volc%25C3%25A1n%2520Purac%25C3%25A9%2520from%2520Popay%25C3%25A1n%2520-%25202006.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Volc%C3%A1n%20Tungurahua%20Riobamba%20-%20Ecuador.jpg",
     "width": 3872,
     "height": 2592,
     "format": "JPEG",
-    "file_size_kb": 7787.05
+    "file_size_kb": 7787.05,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volc%25C3%25A1n%2520Tungurahua%2520Riobamba%2520-%2520Ecuador.jpg",
+    "license": {},
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D60",
+      "DateTime": "2011:09:18 23:27:17"
+    }
   },
   {
     "file_name": "Volcan%20de%20Fuego%20y%20Acatenango.jpg",
     "width": 1024,
     "height": 585,
     "format": "JPEG",
-    "file_size_kb": 392.71
+    "file_size_kb": 392.71,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volcan%2520de%2520Fuego%2520y%2520Acatenango.jpg",
+    "license": {},
+    "exif": {}
   },
   {
     "file_name": "Volcan-Sangay-Ecuador.jpg",
     "width": 3872,
     "height": 2592,
     "format": "JPEG",
-    "file_size_kb": 1451.48
+    "file_size_kb": 1451.48,
+    "source_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volcan-Sangay-Ecuador.jpg",
+    "license": {
+      "license_short": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0"
+    },
+    "exif": {
+      "Make": "NIKON CORPORATION",
+      "Model": "NIKON D60",
+      "DateTime": "2015:09:13 10:48:22"
+    }
   }
 ]
