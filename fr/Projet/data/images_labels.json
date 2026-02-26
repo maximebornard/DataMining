@@ -2,36 +2,39 @@
   "%D0%92%D0%B5%D0%BB%D0%B8%D0%B2%D0%B0%D1%80%20%28%D0%94%D0%B5%D1%88%D0%B0%D1%82%29%2004.jpg": {
     "predominant_colors": [
       [
-        127,
-        141,
-        157
-      ],
-      [ 
-        160,
-        174,
-        190
+        128,
+        142,
+        159
       ],
       [
-        203,
-        207,
-        214
+        163,
+        177,
+        192
       ],
       [
         34,
         33,
         32
+      ],
+      [
+        205,
+        210,
+        215
       ]
     ],
     "color_names": [
       "gris",
       "gris",
-      "blanc",
-      "noir"
+      "noir",
+      "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Deshat",
+      "Macedonian Geoexpeditions 2017",
+      "Self-published work",
+      "Velivar"
     ]
   },
   "%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%20%D0%93%D0%BE%D1%80%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BA%D0%B0.jpg": {
@@ -66,42 +69,46 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Flickr images reviewed by FlickreviewR 2",
+      "Gorely",
+      "Photographs by Tany Solovey"
     ]
   },
   "00%202399%20Mount%20Ararat%2C%20Turkey.jpg": {
     "predominant_colors": [
       [
-        76,
-        91,
+        79,
+        92,
         70
       ],
       [
         95,
-        126,
+        122,
+        150
+      ],
+      [
+        150,
+        155,
         159
       ],
       [
-        181,
-        188,
-        197
-      ],
-      [
-        144,
-        137,
-        123
+        203,
+        205,
+        210
       ]
     ],
     "color_names": [
       "vert",
       "gris",
       "gris",
-      "gris"
+      "blanc"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Files by User:W. Bulach",
+      "Mount Ararat",
+      "Self-published work"
     ]
   },
   "006Spirit%20Lake%20pre%20resize%20%2822027452382%29.jpg": {
@@ -112,8 +119,8 @@
         160
       ],
       [
-        68,
-        113,
+        69,
+        114,
         128
       ],
       [
@@ -136,7 +143,14 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Files from the U.S. Forest Service Pacific Northwest Region Flickr stream",
+      "Flickr images missing SDC inception",
+      "Flickr images reviewed by FlickreviewR 2",
+      "Historic Photos Forest Service Pacific Northwest Region",
+      "Mount St. Helens (pre-1980 eruption)",
+      "PD US USDA FS",
+      "Spirit Lake (Skamania County, Washington)",
+      "USFS files uploaded by Tyler de Noche"
     ]
   },
   "2006-05-21-153901%20Iceland%20St%C3%B3rin%C3%BApur.jpg": {
@@ -153,12 +167,12 @@
       ],
       [
         37,
-        34,
+        35,
         25
       ],
       [
-        81,
-        96,
+        80,
+        97,
         114
       ]
     ],
@@ -171,7 +185,15 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Files by User:simisa",
+      "Hekla from Þjórsárdalur",
+      "Hekla in 2006",
+      "Iceland photographs taken on 2006-05-21",
+      "Parasitic cones in Iceland",
+      "Parasitic cones of Hekla",
+      "Taken with Nikon Coolpix 8800",
+      "Volcanic landforms in Iceland",
+      "Volcanoes in the Atlantic Ocean"
     ]
   },
   "981012-Damavand-South-IMG%209861-2.jpg": {
@@ -179,52 +201,57 @@
       [
         82,
         142,
-        199
+        198
       ],
       [
-        55,
+        54,
         84,
         125
       ],
       [
-        5,
-        17,
-        30
+        202,
+        180,
+        167
       ],
       [
-        203,
-        181,
-        167
+        5,
+        16,
+        29
       ]
     ],
     "color_names": [
       "bleu",
       "gris",
-      "noir",
-      "gris"
+      "gris",
+      "noir"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Iran photographs taken on 2020-01-02",
+      "January 2020 Iran photographs",
+      "Mount Damavand",
+      "Photographs by Safa Daneshvar",
+      "Self-published work",
+      "Winter in Iran"
     ]
   },
   "Acamarachi%20Volcano.jpg": {
     "predominant_colors": [
       [
-        156,
-        147,
-        143
+        155,
+        146,
+        142
       ],
       [
         184,
         183,
-        183
+        182
       ],
       [
-        110,
+        109,
         118,
-        122
+        121
       ],
       [
         101,
@@ -241,7 +268,11 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Acamarachi",
+      "Flickr images reviewed by FlickreviewR",
+      "Information field template with formatting",
+      "Taken with Nikon D70s",
+      "Volcanoes in Chile in 2005"
     ]
   },
   "Acotango.jpg": {
@@ -262,8 +293,8 @@
         70
       ],
       [
-        108,
-        136,
+        109,
+        137,
         188
       ]
     ],
@@ -276,50 +307,65 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Acotango",
+      "CC-PD-Mark",
+      "Cerro Capurata",
+      "Humarata volcano",
+      "Lake Chungará",
+      "PD US Government",
+      "Subglacial volcanoes in Chile in 2004",
+      "Volcanoes in Chile in 2004"
     ]
   },
   "Akademia%20nauk.jpg": {
     "predominant_colors": [
       [
-        77,
-        97,
-        100
+        79,
+        102,
+        107
       ],
       [
-        112,
-        147,
-        163
+        48,
+        59,
+        55
       ],
       [
-        227,
-        237,
-        239
+        228,
+        238,
+        240
       ],
       [
-        44,
-        54,
-        50
+        120,
+        154,
+        169
       ]
     ],
     "color_names": [
       "gris",
-      "gris",
+      "vert",
       "blanc",
-      "noir"
+      "gris"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Akademia Nauk caldera",
+      "Crater lakes of Russia",
+      "Files moved to Commons by BetacommandBot",
+      "Fumaroles",
+      "General views of crater lakes",
+      "Karymsky volcano",
+      "Media missing infobox template",
+      "PD USGS",
+      "Volcanic craters of Russia"
     ]
   },
   "Alutu.jpg": {
     "predominant_colors": [
       [
-        193,
-        172,
-        168
+        194,
+        173,
+        169
       ],
       [
         221,
@@ -327,14 +373,14 @@
         200
       ],
       [
-        144,
+        145,
         133,
         139
       ],
       [
-        77,
-        74,
-        93
+        78,
+        76,
+        94
       ]
     ],
     "color_names": [
@@ -346,7 +392,16 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Alutu volcano",
+      "Crater rows of Ethiopia",
+      "Eruption fissures in Ethiopia",
+      "Extracted images",
+      "ISS Expedition 1 Crew Earth Observations",
+      "Lava fields in Ethiopia",
+      "Obsidian flows in Africa",
+      "PD NASA-AP",
+      "Satellite pictures of volcanoes in Ethiopia",
+      "Satellite pictures of volcanoes in Ethiopia in 2001"
     ]
   },
   "Antisana.jpg": {
@@ -358,17 +413,17 @@
       ],
       [
         181,
-        201,
+        202,
         215
       ],
       [
+        217,
         218,
-        219,
         209
       ],
       [
-        116,
-        106,
+        117,
+        105,
         109
       ]
     ],
@@ -381,7 +436,9 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Antisana",
+      "Extracted images",
+      "Self-published work"
     ]
   },
   "Antofalla-sunset.jpg": {
@@ -389,17 +446,17 @@
       [
         34,
         24,
-        43
+        44
       ],
       [
         39,
-        48,
-        119
+        49,
+        120
       ],
       [
-        92,
-        120,
-        227
+        93,
+        121,
+        228
       ],
       [
         198,
@@ -416,30 +473,36 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Antofalla",
+      "GFDL",
+      "Images with annotations",
+      "License migration redundant",
+      "Self-published work",
+      "Volcanic fields",
+      "Volcanoes in Argentina in 2007"
     ]
   },
   "Aracar.jpg": {
     "predominant_colors": [
       [
-        114,
+        113,
         89,
         69
       ],
       [
-        65,
-        50,
-        39
+        64,
+        49,
+        38
       ],
       [
-        174,
+        173,
         136,
         105
       ],
       [
-        240,
-        235,
-        229
+        238,
+        231,
+        224
       ]
     ],
     "color_names": [
@@ -451,25 +514,27 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Aracar",
+      "PD NASA",
+      "Satellite pictures of Argentina"
     ]
   },
   "Baitou%20Mountain%20Tianchi.jpg": {
     "predominant_colors": [
       [
-        109,
+        110,
         157,
         202
       ],
       [
         48,
         78,
-        98
+        99
       ],
       [
-        210,
-        218,
-        234
+        211,
+        219,
+        235
       ],
       [
         178,
@@ -486,30 +551,37 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "GFDL",
+      "Heaven Lake",
+      "License migration completed",
+      "Panoramics of lakes in China",
+      "Panoramics of lakes in North Korea",
+      "Panoramics of mountains in China",
+      "Panoramics of mountains in North Korea",
+      "Self-published work"
     ]
   },
   "Bear%20Seamount.jpg": {
     "predominant_colors": [
       [
         253,
-        253,
+        254,
         252
       ],
       [
-        106,
+        105,
         198,
         217
       ],
       [
         36,
-        91,
-        114
+        90,
+        111
       ],
       [
-        197,
-        167,
-        103
+        198,
+        169,
+        104
       ]
     ],
     "color_names": [
@@ -521,7 +593,10 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Bathymetric maps of volcanoes",
+      "Bear Seamount",
+      "Guyots",
+      "PD US NOAA"
     ]
   },
   "COLLECTIE%20TROPENMUSEUM%20Gezicht%20op%20de%20vulkaan%20Welirang%20vanaf%20de%20Widodaren%20TMnr%2010023577.jpg": {
@@ -532,14 +607,14 @@
         241
       ],
       [
-        98,
-        98,
-        98
+        99,
+        99,
+        99
       ],
       [
-        132,
-        132,
-        132
+        133,
+        133,
+        133
       ],
       [
         33,
@@ -556,7 +631,10 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Arjuno-Welirang",
+      "Black and white photographs",
+      "Images from the Tropenmuseum",
+      "Template Unknown (author)"
     ]
   },
   "Caldera%20Mt%20Tambora%20Sumbawa%20Indonesia.jpg": {
@@ -567,17 +645,17 @@
         215
       ],
       [
-        108,
+        109,
         109,
         117
       ],
       [
-        48,
-        41,
+        49,
+        42,
         54
       ],
       [
-        208,
+        209,
         213,
         224
       ]
@@ -591,15 +669,19 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Fumaroles of Mount Tambora",
+      "Mount Tambora",
+      "Self-published work",
+      "Taken with Canon EOS 550D",
+      "Volcanic degassing in 2011"
     ]
   },
   "Cavehill%2C%20Belfast.jpg": {
     "predominant_colors": [
       [
         64,
-        61,
-        33
+        62,
+        34
       ],
       [
         112,
@@ -614,7 +696,7 @@
       [
         175,
         211,
-        253
+        252
       ]
     ],
     "color_names": [
@@ -626,7 +708,12 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "August 2006 in Belfast",
+      "Cave Hill, Belfast",
+      "Flickr images missing SDC creator",
+      "Flickr images missing SDC source of file",
+      "Flickr images reviewed by FlickreviewR",
+      "Geography of Belfast"
     ]
   },
   "CrozetMapEst.png": {
@@ -639,10 +726,10 @@
       [
         157,
         161,
-        138
+        137
       ],
       [
-        99,
+        98,
         108,
         106
       ],
@@ -661,7 +748,9 @@
     "orientation": "paysage",
     "size_category": "vignette",
     "tags": [
-      "montagne"
+      "Extracted images",
+      "Maps of the Crozet Islands",
+      "PD-user"
     ]
   },
   "Descabezado.jpg": {
@@ -677,26 +766,31 @@
         42
       ],
       [
-        99,
-        97,
-        97
-      ],
-      [
         189,
         206,
-        242
+        243
+      ],
+      [
+        99,
+        97,
+        98
       ]
     ],
     "color_names": [
       "gris",
       "marron",
-      "gris",
-      "blanc"
+      "blanc",
+      "gris"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Descabezado Grande",
+      "GPL",
+      "Lakes of Chile",
+      "Subglacial volcanoes in Chile in 2003",
+      "Volcanoes in Chile in 2003",
+      "Water reflections of mountains in Chile"
     ]
   },
   "DonPedro%20Antillanca.jpg": {
@@ -714,7 +808,7 @@
       [
         27,
         33,
-        44
+        43
       ],
       [
         193,
@@ -731,7 +825,18 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Antillanca",
+      "Antillanca Volcanic Complex",
+      "Casablanca (volcano)",
+      "Cinder cones in Chile",
+      "Osorno (volcano) in 2005",
+      "Puntiagudo",
+      "Self-published work",
+      "Ski lifts in Chile",
+      "Ski resorts in Chile",
+      "Ski slopes in Chile",
+      "T-bar lifts",
+      "Taken with Kodak EasyShare DX6490"
     ]
   },
   "Doyle%27s%20Delight.jpg": {
@@ -739,10 +844,10 @@
       [
         115,
         118,
-        105
+        106
       ],
       [
-        152,
+        153,
         155,
         144
       ],
@@ -754,7 +859,7 @@
       [
         219,
         240,
-        243
+        242
       ]
     ],
     "color_names": [
@@ -766,7 +871,8 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Items with VRTS permission confirmed",
+      "Media missing infobox template"
     ]
   },
   "Fonualei.jpg": {
@@ -784,12 +890,12 @@
       [
         81,
         95,
-        141
+        142
       ],
       [
-        205,
-        215,
-        237
+        207,
+        216,
+        238
       ]
     ],
     "color_names": [
@@ -801,20 +907,23 @@
     "orientation": "paysage",
     "size_category": "vignette",
     "tags": [
-      "montagne"
+      "Fonualei",
+      "NASA World Wind",
+      "PD World Wind",
+      "Satellite pictures of Tonga"
     ]
   },
   "Furka%2054.JPG": {
     "predominant_colors": [
       [
         124,
-        120,
-        102
+        121,
+        103
       ],
       [
-        120,
+        119,
         154,
-        192
+        193
       ],
       [
         72,
@@ -822,7 +931,7 @@
         54
       ],
       [
-        203,
+        202,
         202,
         206
       ]
@@ -836,7 +945,17 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Furkapass",
+      "Gross Furkahorn",
+      "Images with annotations",
+      "Klein Furkahorn",
+      "Mountains in the canton of Uri",
+      "Mountains in the canton of Valais",
+      "Rhône Glacier",
+      "Self-published work",
+      "Sidelenhorn",
+      "Switzerland photographs taken on 2004-09-01",
+      "Taken with Minolta Dimage S304"
     ]
   },
   "Gunung%20Kaba.jpg": {
@@ -844,7 +963,7 @@
       [
         73,
         86,
-        72
+        73
       ],
       [
         31,
@@ -852,14 +971,14 @@
         35
       ],
       [
-        105,
+        107,
         125,
-        120
+        119
       ],
       [
         243,
-        247,
-        231
+        248,
+        232
       ]
     ],
     "color_names": [
@@ -871,7 +990,8 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Mount Kaba (Indonesia)",
+      "PD Indonesian Government"
     ]
   },
   "Gunung%20Sirung%20caldera.jpg": {
@@ -882,19 +1002,19 @@
         40
       ],
       [
-        95,
+        96,
         98,
         86
       ],
       [
-        188,
-        185,
-        156
+        131,
+        140,
+        129
       ],
       [
-        131,
-        139,
-        129
+        188,
+        186,
+        156
       ]
     ],
     "color_names": [
@@ -906,7 +1026,16 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Calderas in Indonesia",
+      "Diffuse degassing at volcanoes of Indonesia",
+      "Hydrothermal alteration in Indonesia",
+      "Lava domes at eruption fissures",
+      "Mount Sirung",
+      "PD Indonesian Government",
+      "Radial eruption fissures",
+      "Rift zones of volcanoes in Indonesia",
+      "Rows of lava domes",
+      "Volcanic craters in Indonesia"
     ]
   },
   "Gunung%20rajabasa.jpg": {
@@ -924,11 +1053,11 @@
       [
         161,
         181,
-        177
+        176
       ],
       [
         64,
-        74,
+        75,
         29
       ]
     ],
@@ -941,7 +1070,8 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Mount Rajabasa",
+      "Self-published work"
     ]
   },
   "Habitat%20du%20Chinchilla%20brevicaudata%20-%20Lllullaillaco.jpg": {
@@ -958,13 +1088,13 @@
       ],
       [
         70,
-        55,
+        54,
         104
       ],
       [
         189,
-        180,
-        208
+        179,
+        207
       ]
     ],
     "color_names": [
@@ -976,7 +1106,11 @@
     "orientation": "paysage",
     "size_category": "vignette",
     "tags": [
-      "montagne"
+      "Attribution only license",
+      "Chinchilla brevicaudata",
+      "Items with VRTS permission confirmed",
+      "Llullaillaco",
+      "Uploaded by Salix"
     ]
   },
   "Hveragerdi6.jpg": {
@@ -997,7 +1131,7 @@
         156
       ],
       [
-        211,
+        210,
         214,
         226
       ]
@@ -1011,42 +1145,56 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "2004 in Iceland",
+      "Bodies of water of the Grensdalur volcanic system",
+      "GFDL",
+      "Grensdalur volcanic system",
+      "Hot springs of Hveragerði",
+      "Hot springs of the Grensdalur volcanic system",
+      "Hydrothermal weathering in Iceland",
+      "License migration completed",
+      "Varmá (Hveragerði)",
+      "Volcanic fissures of the Grensdalur volcanic system",
+      "Volcanic unrest in Iceland in 2004"
     ]
   },
   "Iceland2009-BradWeber-Kerid.jpg": {
     "predominant_colors": [
       [
-        125,
-        91,
-        82
+        128,
+        94,
+        84
       ],
       [
-        181,
-        140,
-        113
+        184,
+        144,
+        115
+      ],
+      [
+        66,
+        50,
+        47
       ],
       [
         161,
         183,
-        204
-      ],
-      [
-        63,
-        48,
-        45
+        205
       ]
     ],
     "color_names": [
       "gris",
       "gris",
-      "gris",
-      "marron"
+      "marron",
+      "gris"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "General views of crater lakes",
+      "Iron oxidations at Kerið",
+      "Kerið",
+      "Self-published work",
+      "Taken with Canon EOS 500D"
     ]
   },
   "Il%20cratere%20del%20Vulcano%20-%20panoramio.jpg": {
@@ -1054,11 +1202,11 @@
       [
         176,
         215,
-        228
+        229
       ],
       [
-        63,
-        116,
+        65,
+        117,
         132
       ],
       [
@@ -1067,9 +1215,9 @@
         82
       ],
       [
-        150,
-        155,
-        139
+        159,
+        161,
+        141
       ]
     ],
     "color_names": [
@@ -1081,14 +1229,19 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Italy photographs taken on 2012-01-07",
+      "Panoramio files uploaded by Panoramio upload bot",
+      "Panoramio images reviewed by trusted users",
+      "Photos from Panoramio",
+      "Photos from Panoramio ID 2137948",
+      "Vesuvius from Naples (W)"
     ]
   },
   "Isanotski%20Peaks%20Volcano.jpg": {
     "predominant_colors": [
       [
         51,
-        79,
+        80,
         98
       ],
       [
@@ -1099,7 +1252,7 @@
       [
         207,
         214,
-        210
+        211
       ],
       [
         133,
@@ -1116,30 +1269,38 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Arêtes in Alaska",
+      "Blue sky in Alaska",
+      "Images from the United States Fish and Wildlife Service",
+      "Isanotski Peak",
+      "PD US FWS",
+      "Snow in the United States in July",
+      "Subglacial calderas in Alaska",
+      "Subglacial volcanoes in Alaska in 2004",
+      "United States photographs taken on 2004-07-08"
     ]
   },
   "Izu-Oshima-IMG%204759.jpg": {
     "predominant_colors": [
       [
-        206,
+        205,
         216,
         228
       ],
       [
-        116,
         117,
-        72
+        117,
+        73
       ],
       [
         62,
         70,
-        31
+        30
       ],
       [
         149,
-        150,
-        136
+        151,
+        137
       ]
     ],
     "color_names": [
@@ -1151,30 +1312,33 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Files from Wikivoyage wts",
+      "Lava flows in Japan",
+      "Mount Mihara",
+      "Taken with Canon PowerShot A60"
     ]
   },
   "Katla%201918.jpg": {
     "predominant_colors": [
       [
-        10,
+        9,
         25,
         47
       ],
       [
-        159,
-        173,
-        158
+        153,
+        168,
+        154
       ],
       [
-        97,
-        119,
-        110
+        94,
+        115,
+        106
       ],
       [
-        199,
-        220,
-        215
+        197,
+        217,
+        211
       ]
     ],
     "color_names": [
@@ -1186,7 +1350,24 @@
     "orientation": "paysage",
     "size_category": "vignette",
     "tags": [
-      "montagne"
+      "1918 eruptions in Iceland",
+      "1918 natural disasters",
+      "Historical images of volcanic eruptions",
+      "Historical photographs of Mýrdalsjökull",
+      "Historical photographs of volcanoes in Iceland",
+      "History of Iceland",
+      "Katla",
+      "Katla 1918 eruption series",
+      "Natural disasters in Iceland",
+      "PD Finland (simple photos)",
+      "Plinian eruptions in Iceland",
+      "Subglacial eruptions",
+      "Subglacial eruptions in Iceland",
+      "Subglacial volcanism of Katla",
+      "Volcanic eruptions in Suðurland",
+      "Volcanism of Iceland in the 20th century",
+      "Volcanism of Katla",
+      "Volcanism of the South Volcanic Zone"
     ]
   },
   "Kawi-Butak.jpg": {
@@ -1197,8 +1378,8 @@
         3
       ],
       [
-        129,
-        164,
+        128,
+        163,
         232
       ],
       [
@@ -1221,7 +1402,9 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "CC-PD-Mark",
+      "Kawi-Butak",
+      "PD US Government"
     ]
   },
   "Kelimutu%202007-07-21.jpg": {
@@ -1232,9 +1415,9 @@
         201
       ],
       [
-        68,
+        67,
         56,
-        44
+        43
       ],
       [
         207,
@@ -1242,9 +1425,9 @@
         223
       ],
       [
-        145,
-        119,
-        92
+        144,
+        118,
+        91
       ]
     ],
     "color_names": [
@@ -1256,13 +1439,19 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Flickr images missing SDC Flickr photo ID",
+      "Flickr images missing SDC published in",
+      "Flickr images missing SDC source of file",
+      "Flickr images reviewed by FlickreviewR",
+      "Kelimutu",
+      "Photographs by Rosino",
+      "Taken with Nikon D50"
     ]
   },
   "King%20Peak%20600x450.jpg": {
     "predominant_colors": [
       [
-        173,
+        172,
         178,
         197
       ],
@@ -1272,14 +1461,14 @@
         230
       ],
       [
-        47,
-        88,
-        144
+        46,
+        87,
+        143
       ],
       [
-        121,
-        130,
-        159
+        120,
+        129,
+        158
       ]
     ],
     "color_names": [
@@ -1291,30 +1480,37 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "2006 aerial photographs of Canada",
+      "Aerial photographs of Yukon",
+      "Canada photographs taken on 2006-07-12",
+      "Extracted images",
+      "Files from Flickr with changed licenses",
+      "July 2006 in Yukon",
+      "King Peak (Yukon)",
+      "Snow in Canada in July"
     ]
   },
   "Kodaki%20fuji%20frm%20shojinko%20refurb.jpg": {
     "predominant_colors": [
       [
         150,
-        187,
-        234
+        188,
+        235
       ],
       [
-        57,
-        75,
-        119
+        58,
+        77,
+        121
       ],
       [
-        91,
-        122,
-        171
+        93,
+        125,
+        174
       ],
       [
         33,
         30,
-        24
+        25
       ]
     ],
     "color_names": [
@@ -1326,7 +1522,12 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "GFDL",
+      "License migration redundant",
+      "Mount Fuji from Lake Shōji",
+      "Mount Omuro (Mount Fuji)",
+      "Self-published work",
+      "Taken with Pentax K10D"
     ]
   },
   "La%20Pel%C3%A9e%20vue%20du%20Carbet.jpg": {
@@ -1342,14 +1543,14 @@
         251
       ],
       [
-        116,
-        133,
-        133
+        117,
+        134,
+        135
       ],
       [
-        163,
-        186,
-        191
+        164,
+        187,
+        192
       ]
     ],
     "color_names": [
@@ -1361,13 +1562,18 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Le Carbet",
+      "Media lacking author information",
+      "Montagne Pelée",
+      "PD-self",
+      "Self-published work",
+      "Unknown date"
     ]
   },
   "Lakes%20Okareka%20and%20Tarawera%2C%20Rotorua%2C%20New%20Zealand%2C%2016%20Oct.%202010%20-%20Flickr%20-%20PhillipC.jpg": {
     "predominant_colors": [
       [
-        56,
+        55,
         55,
         58
       ],
@@ -1396,7 +1602,12 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Files uploaded by Kobac",
+      "Flickr images reviewed by FlickreviewR",
+      "Lake Tarawera",
+      "Lake Ōkareka",
+      "Photographs by Phillip Capper",
+      "Taken with Nikon D90"
     ]
   },
   "Lascar%202.jpg": {
@@ -1408,7 +1619,7 @@
       ],
       [
         79,
-        65,
+        64,
         50
       ],
       [
@@ -1418,7 +1629,7 @@
       ],
       [
         232,
-        195,
+        196,
         134
       ]
     ],
@@ -1431,7 +1642,17 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Cerro Aguas Calientes",
+      "Chile photographs taken on 2009-09-25",
+      "GFDL",
+      "Images with annotations",
+      "Laguna Chaxa",
+      "Lascar Volcano",
+      "License migration redundant",
+      "Self-published work",
+      "Taken with Nikon D40",
+      "Volcanoes (annotated) in Chile",
+      "Volcanoes in Chile in 2009"
     ]
   },
   "Lvinaya%20past%2020070718011232.jpg": {
@@ -1443,18 +1664,18 @@
       ],
       [
         76,
-        137,
-        40
+        136,
+        39
       ],
       [
-        109,
-        179,
-        57
+        107,
+        177,
+        56
       ],
       [
-        217,
-        232,
-        171
+        218,
+        231,
+        173
       ]
     ],
     "color_names": [
@@ -1466,13 +1687,18 @@
     "orientation": "carre",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Iturup",
+      "July 2007 Russia photographs",
+      "PD NASA",
+      "Photos by ASTER",
+      "Satellite pictures of the Kuril Islands",
+      "Volcanoes in the Kuril Islands"
     ]
   },
   "MSH82%20st%20helens%20plume%20from%20harrys%20ridge%2005-19-82.jpg": {
     "predominant_colors": [
       [
-        53,
+        54,
         94,
         133
       ],
@@ -1487,8 +1713,8 @@
         234
       ],
       [
-        115,
-        135,
+        117,
+        136,
         163
       ]
     ],
@@ -1501,65 +1727,77 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Catastrophism",
+      "Eruption columns in Washington (state)",
+      "Lava domes",
+      "Lava domes in 1982",
+      "Lava domes in Washington (state)",
+      "Mount St. Helens 1982 eruptions",
+      "Mount St. Helens eruptions",
+      "Mount St. Helens in 1982",
+      "PD USGS",
+      "Photographs by Lyn Topinka",
+      "Volcanic craters in Washington (state)"
     ]
   },
   "Main%20Line%20Islands%2C%20NOAA%20bathymetric%20map%20with%20lineations%20%28Horizon%20Guyot%29.jpg": {
     "predominant_colors": [
       [
-        81,
-        148,
-        197
+        88,
+        156,
+        207
       ],
       [
-        176,
-        149,
-        53
+        183,
+        151,
+        52
       ],
       [
-        114,
-        212,
-        215
+        58,
+        146,
+        155
       ],
       [
-        217,
-        235,
-        157
+        197,
+        236,
+        173
       ]
     ],
     "color_names": [
       "bleu",
+      "orange",
       "gris",
-      "bleu",
       "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Bathymetric maps of the Pacific Ocean",
+      "Extracted images",
+      "PD US NOAA"
     ]
   },
   "Marchena%20Island.jpg": {
     "predominant_colors": [
       [
-        245,
+        244,
         254,
         254
       ],
       [
         35,
-        49,
-        64
+        48,
+        62
       ],
       [
-        57,
-        74,
-        106
+        56,
+        73,
+        105
       ],
       [
-        118,
-        138,
-        168
+        116,
+        136,
+        167
       ]
     ],
     "color_names": [
@@ -1571,14 +1809,16 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Isla Marchena",
+      "PD US SI",
+      "Pyroclastic cones in the Galápagos Islands"
     ]
   },
   "Matua.jpg": {
     "predominant_colors": [
       [
         114,
-        164,
+        165,
         182
       ],
       [
@@ -1606,7 +1846,12 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Aerial photographs of the Kuril Islands",
+      "GFDL-en",
+      "Islands with clouds",
+      "License migration completed",
+      "Matua Island",
+      "Sarychev Peak"
     ]
   },
   "Mauna%20Kea10.jpg": {
@@ -1641,53 +1886,65 @@
     "orientation": "paysage",
     "size_category": "vignette",
     "tags": [
-      "montagne"
+      "Flora of Mauna Kea",
+      "GFDL",
+      "License migration completed",
+      "Media missing infobox template",
+      "Photographs by Eric Guinther",
+      "Snowy landscapes in Hawaii",
+      "Taken with Nikon Coolpix 950",
+      "Unidentified Opuntia",
+      "Views of Mauna Kea"
     ]
   },
   "Mayon%20Volcano%20as%20of%20March%202020.jpg": {
     "predominant_colors": [
       [
-        94,
-        108,
-        45
+        101,
+        168,
+        241
       ],
       [
-        86,
-        156,
-        237
+        112,
+        125,
+        53
       ],
       [
-        134,
-        197,
-        248
+        69,
+        83,
+        34
       ],
       [
-        72,
-        99,
+        71,
+        98,
         121
       ]
     ],
     "color_names": [
+      "bleu",
       "marron",
-      "bleu",
-      "bleu",
+      "vert",
       "gris"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Grasslands in the Philippines",
+      "Mayon in 2020",
+      "Philippines photographs taken on 2020-03-14",
+      "Self-published work",
+      "Taken on missing SDC inception"
     ]
   },
   "MayonVolcano.jpg": {
     "predominant_colors": [
       [
-        151,
+        152,
         159,
         176
       ],
       [
-        174,
+        175,
         189,
         203
       ],
@@ -1698,7 +1955,7 @@
       ],
       [
         134,
-        116,
+        117,
         94
       ]
     ],
@@ -1711,7 +1968,15 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "7 September",
+      "Assumed own work",
+      "Eruption columns of Mayon",
+      "Files by User:Sixtango4",
+      "Mayon 2006 eruptions",
+      "PD-self",
+      "Self-published work",
+      "September 2006 photographs",
+      "Vog in the Philippines"
     ]
   },
   "Mexico-Popocatepetl.jpg": {
@@ -1732,9 +1997,9 @@
         37
       ],
       [
-        134,
+        133,
         139,
-        136
+        137
       ]
     ],
     "color_names": [
@@ -1746,7 +2011,24 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Featured pictures of Mexico",
+      "Featured pictures on Wikimedia Commons",
+      "Featured pictures on Wikipedia, Indonesian",
+      "Featured pictures on Wikipedia, Spanish",
+      "Forests in Mexico",
+      "GFDL",
+      "Glaciers of Popocatépetl",
+      "License migration completed",
+      "Mexico photographs taken on 2006-06-19",
+      "Picture of week on the Czech Wikipedia",
+      "Pictures of the Year (2007)",
+      "Pictures of the Year (candidate)",
+      "Pictures of the day (2007)",
+      "Popocatépetl from north",
+      "Popocatépetl in 2006",
+      "Self-published work",
+      "Tree lines",
+      "Volcanic degassing in Mexico"
     ]
   },
   "Mkinvarcveri.jpg": {
@@ -1759,16 +2041,16 @@
       [
         19,
         16,
-        22
+        23
       ],
       [
-        71,
         72,
+        73,
         90
       ],
       [
         202,
-        140,
+        139,
         135
       ]
     ],
@@ -1781,13 +2063,15 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Kazbek",
+      "PD-self",
+      "Self-published work"
     ]
   },
   "Mont%20M%C3%A9zenc%20-%20France.JPG": {
     "predominant_colors": [
       [
-        125,
+        126,
         133,
         112
       ],
@@ -1816,7 +2100,17 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Assumed own work",
+      "Borée (Ardèche)",
+      "Chaudeyrolles",
+      "GFDL",
+      "La Rochette (Ardèche)",
+      "Les Estables",
+      "License migration redundant",
+      "Mont Mézenc",
+      "Monts du Vivarais",
+      "Self-published work",
+      "Taken with Casio QV-R40"
     ]
   },
   "Monte%20Peschio%20-%20Monte%20Artemisio%20-%20Maschio%20d%27Ariano.JPG": {
@@ -1827,31 +2121,33 @@
         246
       ],
       [
-        106,
+        105,
         114,
-        134
+        133
       ],
       [
-        80,
-        84,
-        84
+        35,
+        34,
+        21
       ],
       [
-        37,
-        36,
-        22
+        79,
+        82,
+        78
       ]
     ],
     "color_names": [
       "blanc",
       "gris",
-      "gris",
-      "noir"
+      "noir",
+      "gris"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Alban Hills",
+      "PD-self",
+      "Self-published work"
     ]
   },
   "Mount%20Agung%2C%20November%202017%20eruption%20-%2027%20Nov%202017%2003.jpg": {
@@ -1862,19 +2158,19 @@
         248
       ],
       [
-        164,
-        167,
-        181
+        166,
+        169,
+        182
       ],
       [
-        52,
-        49,
-        33
+        53,
+        50,
+        34
       ],
       [
-        85,
-        98,
-        113
+        87,
+        100,
+        117
       ]
     ],
     "color_names": [
@@ -1886,42 +2182,60 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Indonesia photographs taken on 2017-11-27",
+      "Items with VRTS permission confirmed",
+      "Mount Agung 2017 eruptions",
+      "Umbrella clouds (volcanism) of 2017 eruptions of Mount Agung"
     ]
   },
   "Mount%20Ararat%20and%20the%20Araratian%20plain%20%28cropped%29.jpg": {
     "predominant_colors": [
       [
-        55,
-        144,
+        101,
+        153,
+        189
+      ],
+      [
+        41,
+        138,
         201
       ],
       [
-        143,
-        179,
-        199
+        88,
+        84,
+        40
       ],
       [
-        85,
-        82,
-        38
-      ],
-      [
-        112,
-        122,
-        135
+        173,
+        189,
+        195
       ]
     ],
     "color_names": [
-      "bleu",
       "gris",
+      "bleu",
       "marron",
       "gris"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Armenia photographs taken on 2016-11-03",
+      "Featured pictures of Armenia",
+      "Featured pictures of landscapes",
+      "Featured pictures of landscapes in Turkey",
+      "Featured pictures on Wikimedia Commons",
+      "Featured pictures on Wikipedia, English",
+      "Featured pictures on Wikipedia, Persian",
+      "Images with annotations",
+      "Khor Virap",
+      "Mount Ararat",
+      "Panoramas of Ararat Province",
+      "Pictures of the Year/2017 (finalist)",
+      "Pictures of the Year (2017)",
+      "Pictures of the Year (candidate)",
+      "Pictures of the Year (finalist)",
+      "Self-published work"
     ]
   },
   "Mount%20Batur2.JPG": {
@@ -1929,17 +2243,17 @@
       [
         86,
         101,
-        78
-      ],
-      [
-        39,
-        52,
-        35
+        77
       ],
       [
         117,
         134,
         143
+      ],
+      [
+        39,
+        52,
+        34
       ],
       [
         206,
@@ -1949,56 +2263,65 @@
     ],
     "color_names": [
       "gris",
-      "noir",
       "gris",
+      "noir",
       "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "GFDL",
+      "Lava flows of Mount Batur",
+      "License migration redundant",
+      "Self-published work",
+      "Views of Mount Batur",
+      "Volcanic craters in Indonesia"
     ]
   },
   "Mount%20Merapi%20Not%20Just%20a%20Legend%20and%20Mythology.jpg": {
     "predominant_colors": [
       [
-        176,
-        205,
-        244
+        163,
+        198,
+        241
       ],
       [
-        51,
-        65,
-        53
+        50,
+        61,
+        45
       ],
       [
-        111,
-        127,
-        92
+        125,
+        134,
+        66
       ],
       [
-        122,
-        176,
-        231
+        81,
+        109,
+        126
       ]
     ],
     "color_names": [
       "blanc",
       "vert",
       "gris",
-      "bleu"
+      "gris"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Feeder dikes",
+      "Merapi in 2019",
+      "Mount Merapi",
+      "Self-published work",
+      "Volcanoes in Indonesia"
     ]
   },
   "Mount%20Rainier%205917s.JPG": {
     "predominant_colors": [
       [
         52,
-        62,
+        63,
         72
       ],
       [
@@ -2008,8 +2331,8 @@
       ],
       [
         22,
-        26,
-        27
+        27,
+        28
       ],
       [
         218,
@@ -2026,7 +2349,13 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Created with Hugin",
+      "GFDL",
+      "License migration redundant",
+      "Mount Rainier",
+      "Retouched pictures",
+      "Self-published work",
+      "Taken with Canon EOS 450D"
     ]
   },
   "MountCleveland.jpg": {
@@ -2034,7 +2363,7 @@
       [
         80,
         79,
-        85
+        84
       ],
       [
         201,
@@ -2042,14 +2371,14 @@
         245
       ],
       [
-        150,
+        149,
         167,
-        208
+        207
       ],
       [
         42,
         43,
-        51
+        50
       ]
     ],
     "color_names": [
@@ -2061,7 +2390,10 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Mount Cleveland (Alaska)",
+      "PD other reasons",
+      "PD other reasons new",
+      "Volcanoes in Alaska in 1994"
     ]
   },
   "MountRecheshnoi.jpg": {
@@ -2073,8 +2405,8 @@
       ],
       [
         122,
-        153,
-        204
+        152,
+        203
       ],
       [
         82,
@@ -2096,19 +2428,24 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Media missing infobox template",
+      "Mount Recheshnoi",
+      "PD USGS",
+      "Parasitic cones in Alaska",
+      "Sandur in Alaska",
+      "Volcanoes in Alaska in 1985"
     ]
   },
   "Mt%20erebus.jpg": {
     "predominant_colors": [
       [
         53,
-        70,
+        71,
         119
       ],
       [
         144,
-        129,
+        130,
         156
       ],
       [
@@ -2117,8 +2454,8 @@
         208
       ],
       [
-        39,
-        34,
+        40,
+        35,
         43
       ]
     ],
@@ -2131,42 +2468,49 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "1972 in Antarctica",
+      "1972 photographs",
+      "Eruption columns of Mount Erebus",
+      "Mount Erebus",
+      "PD USGS"
     ]
   },
   "Mt.%20Bona%2C%20Alaska.jpg": {
     "predominant_colors": [
       [
-        25,
-        42,
+        27,
+        44,
         92
       ],
       [
-        226,
-        225,
-        225
+        106,
+        114,
+        131
       ],
       [
-        96,
-        105,
-        122
+        228,
+        228,
+        227
       ],
       [
-        138,
-        145,
-        158
+        156,
+        161,
+        171
       ]
     ],
     "color_names": [
       "noir",
-      "blanc",
       "gris",
+      "blanc",
       "gris"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "CC-Zero",
+      "Mount Bona (Alaska)",
+      "Self-published work",
+      "Uploaded with en.wp upload wizard"
     ]
   },
   "MtChurchill-KlutlanGlacier.jpg": {
@@ -2184,7 +2528,7 @@
       [
         224,
         231,
-        235
+        234
       ],
       [
         101,
@@ -2201,7 +2545,11 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Glaciers of Alaska",
+      "Mount Churchill",
+      "Mountaineering in Alaska",
+      "PD USGS",
+      "Wrangell volcanic field in 1990"
     ]
   },
   "Nabro%20and%20Mallahle%20Volcanoes-NASA.jpg": {
@@ -2222,8 +2570,8 @@
         26
       ],
       [
-        208,
-        133,
+        209,
+        134,
         155
       ]
     ],
@@ -2236,7 +2584,15 @@
     "orientation": "portrait",
     "size_category": "vignette",
     "tags": [
-      "montagne"
+      "2000 satellite pictures",
+      "False-color satellite images of volcanoes",
+      "February 2000 in Africa",
+      "Mallahle",
+      "Maps of volcanoes in Eritrea",
+      "Maps of volcanoes in Ethiopia",
+      "Nabro",
+      "PD NASA",
+      "Sork Ale"
     ]
   },
   "Neuerburger%20Kopf.jpg": {
@@ -2248,18 +2604,18 @@
       ],
       [
         88,
-        65,
-        53
+        66,
+        54
       ],
       [
-        139,
-        111,
-        91
+        141,
+        112,
+        92
       ],
       [
-        205,
-        171,
-        129
+        206,
+        172,
+        130
       ]
     ],
     "color_names": [
@@ -2271,30 +2627,34 @@
     "orientation": "paysage",
     "size_category": "vignette",
     "tags": [
-      "montagne"
+      "Castles in Landkreis Bernkastel-Wittlich",
+      "Neuerburger Kopf",
+      "PD-self",
+      "Panoramics in Eifel",
+      "Self-published work"
     ]
   },
   "Nevado%20del%20Ruiz%201985.jpg": {
     "predominant_colors": [
       [
         11,
-        30,
-        68
+        31,
+        69
       ],
       [
-        20,
-        64,
-        111
+        21,
+        65,
+        112
       ],
       [
         179,
         188,
-        174
+        175
       ],
       [
-        65,
-        110,
-        144
+        66,
+        112,
+        145
       ]
     ],
     "color_names": [
@@ -2306,65 +2666,72 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Armero tragedy",
+      "Daniel echeverri",
+      "Eruption columns in Colombia",
+      "Files by User:Hike395 from en.wikipedia",
+      "Nevado del Ruiz",
+      "PD USGS",
+      "Volcanic eruptions in 1985"
     ]
   },
   "Otok%20Jabuka%202008.jpeg": {
     "predominant_colors": [
       [
-        124,
-        169,
-        216
+        141,
+        183,
+        225
       ],
       [
-        158,
-        195,
-        230
-      ],
-      [
-        39,
+        40,
         44,
-        51
+        52
       ],
       [
-        118,
-        113,
-        106
+        136,
+        114,
+        91
+      ],
+      [
+        94,
+        131,
+        165
       ]
     ],
     "color_names": [
       "gris",
-      "blanc",
       "noir",
+      "gris",
       "gris"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Jabuka (island)",
+      "Taken with Olympus E-510"
     ]
   },
   "Peulik%20volcano%20Alaska.jpg": {
     "predominant_colors": [
       [
         70,
-        74,
+        75,
         11
       ],
       [
-        177,
-        193,
+        178,
+        194,
         239
       ],
       [
-        36,
-        40,
+        37,
+        41,
         3
       ],
       [
-        133,
-        151,
-        199
+        134,
+        152,
+        200
       ]
     ],
     "color_names": [
@@ -2376,30 +2743,32 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "PD USGS",
+      "Ugashik-Peulik",
+      "Volcanoes in the United States in 1993"
     ]
   },
   "Pic%20du%20midi%20ossau.jpg": {
     "predominant_colors": [
       [
-        129,
-        125,
-        68
+        130,
+        126,
+        69
       ],
       [
-        46,
+        47,
         81,
-        114
+        113
       ],
       [
         115,
         180,
-        233
+        234
       ],
       [
-        179,
-        175,
-        145
+        180,
+        177,
+        147
       ]
     ],
     "color_names": [
@@ -2411,30 +2780,32 @@
     "orientation": "portrait",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Lac Gentau",
+      "Media missing infobox template",
+      "Pic du Midi d'Ossau"
     ]
   },
   "Prevo%20ISS%20cut.jpg": {
     "predominant_colors": [
       [
-        93,
-        119,
-        127
+        91,
+        118,
+        126
       ],
       [
-        51,
+        50,
         77,
         113
       ],
       [
-        127,
-        145,
-        154
+        123,
+        142,
+        152
       ],
       [
-        194,
-        202,
-        204
+        190,
+        198,
+        199
       ]
     ],
     "color_names": [
@@ -2446,30 +2817,32 @@
     "orientation": "carre",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "PD NASA",
+      "Prevo (vulcan)",
+      "Satellite pictures of volcanoes in Russia"
     ]
   },
   "Purchas%20Hill%20remnant.jpg": {
     "predominant_colors": [
       [
-        111,
-        99,
-        67
+        110,
+        98,
+        66
       ],
       [
-        214,
+        213,
         226,
         244
       ],
       [
-        153,
-        133,
-        111
+        152,
+        132,
+        110
       ],
       [
-        59,
         58,
-        36
+        57,
+        35
       ]
     ],
     "color_names": [
@@ -2481,7 +2854,14 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Auckland volcanic field",
+      "New Zealand photographs taken on 2011-08-21",
+      "Outcrops in New Zealand",
+      "Purchas Hill",
+      "Quarries in New Zealand",
+      "Scoria cones in New Zealand",
+      "Self-published work",
+      "Taken with Sony DSC-H3"
     ]
   },
   "Rangitoto02.jpg": {
@@ -2493,8 +2873,8 @@
       ],
       [
         82,
-        101,
-        97
+        102,
+        98
       ],
       [
         117,
@@ -2502,7 +2882,7 @@
         164
       ],
       [
-        41,
+        42,
         62,
         47
       ]
@@ -2516,14 +2896,16 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Images by Grutness",
+      "PD-author",
+      "Remote views of Rangitoto Island"
     ]
   },
   "Ravensberg.jpg": {
     "predominant_colors": [
       [
-        228,
-        225,
+        227,
+        224,
         219
       ],
       [
@@ -2538,8 +2920,8 @@
       ],
       [
         188,
-        171,
-        165
+        170,
+        164
       ]
     ],
     "color_names": [
@@ -2551,29 +2933,34 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "2008 in Saxony-Anhalt",
+      "GFDL",
+      "License migration redundant",
+      "Mountains of Harz",
+      "Ravensberg",
+      "Self-published work"
     ]
   },
   "Road%20to%20the%20summit%20of%20Mount%20Telomoyo.jpg": {
     "predominant_colors": [
       [
-        100,
-        130,
-        24
+        98,
+        128,
+        23
       ],
       [
-        56,
-        79,
-        6
+        53,
+        76,
+        5
       ],
       [
-        139,
-        160,
-        96
+        138,
+        159,
+        93
       ],
       [
         234,
-        237,
+        238,
         242
       ]
     ],
@@ -2586,7 +2973,10 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Mount Telomoyo",
+      "Mountain roads in Indonesia",
+      "PD-user",
+      "Roads in Central Java"
     ]
   },
   "Rockall%20Trough.jpg": {
@@ -2607,9 +2997,9 @@
         148
       ],
       [
-        17,
-        17,
-        17
+        18,
+        18,
+        18
       ]
     ],
     "color_names": [
@@ -2621,30 +3011,34 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Anton Dohrn Seamount",
+      "Geology images that should use vector graphics",
+      "JPG images that should use vector graphics",
+      "Maps of Rockall",
+      "PD-user"
     ]
   },
   "Rockeskyller%20Kopf%201.JPG": {
     "predominant_colors": [
       [
-        126,
+        125,
         184,
         250
       ],
       [
-        136,
-        127,
-        103
+        138,
+        129,
+        105
       ],
       [
-        167,
-        176,
-        135
+        168,
+        177,
+        136
       ],
       [
-        91,
-        90,
-        69
+        94,
+        92,
+        71
       ]
     ],
     "color_names": [
@@ -2656,20 +3050,31 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "GFDL",
+      "Germany photographs taken on 2008-05-01",
+      "License migration redundant",
+      "Natur- und Geopark Vulkaneifel",
+      "Natural monuments in Rockeskyll",
+      "Outcrops in Germany",
+      "Outcrops in Rhineland-Palatinate",
+      "Rockeskyll",
+      "Self-published work",
+      "Taken with Ricoh Caplio R3",
+      "Tuff",
+      "Tuff rock formations in Germany"
     ]
   },
   "Santiaguito%20from%20Santamaria.jpg": {
     "predominant_colors": [
       [
         115,
-        147,
-        191
+        148,
+        192
       ],
       [
         81,
-        99,
-        132
+        100,
+        134
       ],
       [
         176,
@@ -2678,7 +3083,7 @@
       ],
       [
         17,
-        44,
+        43,
         43
       ]
     ],
@@ -2691,7 +3096,16 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "2004 eruptions in Guatemala",
+      "Eruption columns of Santa María Volcanic Complex",
+      "GFDL-en",
+      "Lava dome eruptions of Santiaguito",
+      "Lava domes in 2004",
+      "Lava domes of Santiaguito",
+      "License migration completed",
+      "Santiaguito",
+      "Volcanic eruptions in 2004",
+      "Volcanic eruptions in Guatemala"
     ]
   },
   "Scharteberg.jpg": {
@@ -2703,18 +3117,18 @@
       ],
       [
         30,
-        37,
+        38,
         46
-      ],
-      [
-        68,
-        81,
-        95
       ],
       [
         98,
         122,
         133
+      ],
+      [
+        68,
+        81,
+        94
       ]
     ],
     "color_names": [
@@ -2726,30 +3140,36 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Antenna towers in Rhineland-Palatinate",
+      "GFDL",
+      "License migration completed",
+      "Scharteberg",
+      "Self-published work",
+      "Taken with Nikon D50",
+      "User-created GFDL images"
     ]
   },
   "Schmidt%20volcano.jpg": {
     "predominant_colors": [
       [
-        181,
-        172,
-        154
+        179,
+        170,
+        152
       ],
       [
-        80,
-        86,
-        88
+        79,
+        85,
+        86
       ],
       [
-        131,
-        128,
-        118
+        126,
+        124,
+        115
       ],
       [
-        227,
-        216,
-        191
+        226,
+        214,
+        190
       ]
     ],
     "color_names": [
@@ -2761,14 +3181,19 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Gamchen volcano",
+      "Kronotsky volcano",
+      "PD NASA",
+      "Radial valleys",
+      "Satellite pictures of volcanoes in Kamchatka",
+      "Schmidt volcano"
     ]
   },
   "Seulawaih%20Agam.jpg": {
     "predominant_colors": [
       [
-        61,
-        58,
+        62,
+        59,
         52
       ],
       [
@@ -2796,30 +3221,32 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "PD Indonesian Government",
+      "Seulawah Agam",
+      "Volcanoes in Aceh"
     ]
   },
   "Sidelenhorn%20%26%20Gross%20Furkahorn%20from%20Grimselpass%2C%202010%2007.jpg": {
     "predominant_colors": [
       [
-        175,
+        176,
         165,
         146
       ],
       [
         81,
-        79,
+        80,
         73
       ],
       [
-        131,
-        124,
-        110
+        132,
+        125,
+        111
       ],
       [
         239,
-        222,
-        186
+        221,
+        185
       ]
     ],
     "color_names": [
@@ -2831,7 +3258,20 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "2010 in the canton of Valais",
+      "GFDL",
+      "Gross Furkahorn",
+      "July 2010 Switzerland photographs",
+      "License migration redundant",
+      "Mountains in the canton of Uri",
+      "Mountains in the canton of Valais",
+      "Retouched pictures",
+      "Self-published work",
+      "Sidelenhorn",
+      "Taken with Canon EOS 7D",
+      "Uploaded with derivativeFX",
+      "Urner Alps",
+      "Views from Grimselpass"
     ]
   },
   "Sinabung.jpg": {
@@ -2843,16 +3283,16 @@
       ],
       [
         89,
-        115,
+        116,
         147
       ],
       [
-        136,
-        161,
+        137,
+        162,
         183
       ],
       [
-        184,
+        185,
         200,
         198
       ]
@@ -2866,7 +3306,13 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Eruptions of Mount Sinabung",
+      "Files moved to Commons by BetacommandBot",
+      "Media missing infobox template",
+      "Mount Sinabung",
+      "PD USGS",
+      "Volcanic eruptions in 1987",
+      "Volcanoes in Indonesia in 1987"
     ]
   },
   "Sn%C3%A6fell%20%40%20Tittlingafell%2002.jpg": {
@@ -2877,108 +3323,124 @@
         244
       ],
       [
-        105,
-        92,
-        87
+        104,
+        91,
+        86
       ],
       [
-        67,
-        56,
-        56
-      ],
-      [
-        164,
+        165,
         208,
         252
+      ],
+      [
+        65,
+        55,
+        54
       ]
     ],
     "color_names": [
       "bleu",
       "gris",
-      "marron",
-      "blanc"
+      "blanc",
+      "marron"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Clouds and blue sky in Austurland",
+      "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+      "Creative Commons Attribution-Share Alike missing SDC copyright status",
+      "Files by User:Rémih from fr.wikipedia",
+      "Grjótá (Múlaþing)",
+      "Iceland photographs taken on 2024-09-06",
+      "Images with annotations",
+      "Self-published work",
+      "Self-published work missing SDC copyright license",
+      "Snæfell in 2024",
+      "Sveinsjökull"
     ]
   },
   "Sorikmarapi.jpg": {
     "predominant_colors": [
       [
-        133,
-        167,
-        187
+        64,
+        76,
+        72
       ],
       [
-        74,
-        86,
-        82
+        146,
+        180,
+        197
       ],
       [
-        55,
-        66,
-        59
+        120,
+        122,
+        77
       ],
       [
-        124,
-        124,
-        79
+        113,
+        147,
+        173
       ]
     ],
     "color_names": [
+      "vert",
       "gris",
-      "vert",
-      "vert",
+      "gris",
       "gris"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Mandailing Natal Regency",
+      "PD USGS",
+      "Puncak Sorik Marapi, Mandailing Natal",
+      "Sorikmarapi",
+      "Volcanoes in North Sumatra"
     ]
   },
   "State%20Route%20504%20eastbound%20approaching%20Mount%20St.%20Helens%20near%20Castle%20Lake.jpg": {
     "predominant_colors": [
       [
-        125,
-        131,
-        139
+        128,
+        133,
+        141
       ],
       [
-        114,
-        166,
-        217
+        119,
+        168,
+        216
       ],
       [
-        70,
-        83,
-        56
+        91,
+        101,
+        74
       ],
       [
-        200,
-        194,
-        184
+        48,
+        64,
+        45
       ]
     ],
     "color_names": [
       "gris",
-      "bleu",
-      "vert",
-      "blanc"
+      "gris",
+      "gris",
+      "vert"
     ],
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Mount St. Helens in 2022",
+      "Self-published work",
+      "Washington State Route 504"
     ]
   },
   "Tacora.jpg": {
     "predominant_colors": [
       [
         94,
-        135,
+        134,
         214
       ],
       [
@@ -2993,7 +3455,7 @@
       ],
       [
         182,
-        143,
+        142,
         95
       ]
     ],
@@ -3006,7 +3468,10 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "CC-PD-Mark",
+      "Mountains in 2004",
+      "PD US Government",
+      "Tacora (volcano)"
     ]
   },
   "Taftan%20Volcano.jpg": {
@@ -3017,18 +3482,18 @@
         210
       ],
       [
-        50,
+        51,
         58,
         78
       ],
       [
-        91,
+        93,
         71,
-        75
+        74
       ],
       [
         24,
-        9,
+        10,
         5
       ]
     ],
@@ -3041,7 +3506,9 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Iran photographs taken on 2011-11-08",
+      "Self-published work",
+      "Taftan"
     ]
   },
   "Talagabodas.jpg": {
@@ -3053,8 +3520,8 @@
       ],
       [
         244,
-        250,
-        248
+        249,
+        247
       ],
       [
         22,
@@ -3062,9 +3529,9 @@
         15
       ],
       [
-        169,
+        168,
         182,
-        170
+        169
       ]
     ],
     "color_names": [
@@ -3076,7 +3543,14 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Acidic lakes in Indonesia",
+      "Mount Talagabodas",
+      "PD Indonesian Government",
+      "Unknown date",
+      "Volcanic crater lakes",
+      "Volcanic degassing",
+      "Volcanic landforms in Indonesia",
+      "Volcano monitoring in Indonesia"
     ]
   },
   "Tandikat-Singgalang.jpg": {
@@ -3087,13 +3561,13 @@
         150
       ],
       [
-        83,
+        84,
         128,
         165
       ],
       [
         152,
-        196,
+        197,
         234
       ],
       [
@@ -3111,19 +3585,22 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Featured pictures on Wikipedia, Indonesian",
+      "Mount Singgalang",
+      "Mount Tandikat",
+      "Mountains of West Sumatra"
     ]
   },
   "The%20Structure%20Claimed%20to%20be%20the%20Noah%27s%20Ark%20near%20the%20Mount%20Ararat%20in%20Turkey.jpg": {
     "predominant_colors": [
       [
-        99,
-        93,
-        90
+        97,
+        92,
+        89
       ],
       [
-        195,
-        167,
+        194,
+        166,
         131
       ],
       [
@@ -3132,9 +3609,9 @@
         251
       ],
       [
+        43,
         46,
-        49,
-        49
+        47
       ]
     ],
     "color_names": [
@@ -3146,30 +3623,31 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Durupınar Site",
+      "Self-published work"
     ]
   },
   "Turkey.Mount%20Erciyes01.jpg": {
     "predominant_colors": [
       [
         94,
-        116,
-        135
-      ],
-      [
-        81,
-        73,
-        57
-      ],
-      [
-        188,
-        171,
-        135
-      ],
-      [
-        132,
         117,
-        93
+        136
+      ],
+      [
+        80,
+        72,
+        56
+      ],
+      [
+        187,
+        170,
+        135
+      ],
+      [
+        130,
+        116,
+        91
       ]
     ],
     "color_names": [
@@ -3181,7 +3659,11 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "GFDL",
+      "License migration redundant",
+      "Mount Erciyes",
+      "Self-published work",
+      "Tuff rock formations in Turkey"
     ]
   },
   "Ulawun.jpg": {
@@ -3204,7 +3686,7 @@
       [
         56,
         59,
-        43
+        42
       ]
     ],
     "color_names": [
@@ -3216,7 +3698,16 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Active volcanoes in Papua New Guinea",
+      "Eruption columns in Papua New Guinea",
+      "New Britain-New Ireland Montane Rainforests Ecoregion",
+      "PD US SI",
+      "Stratovolcanoes in Papua New Guinea",
+      "Template Unknown (author)",
+      "Ulawun",
+      "Unknown date",
+      "Volcanic eruptions of Ulawun",
+      "Volcanoes in New Britain"
     ]
   },
   "V%C3%B3lcan%20Cotopaxi.jpg": {
@@ -3228,18 +3719,18 @@
       ],
       [
         40,
-        32,
-        17
+        31,
+        16
       ],
       [
-        67,
-        61,
-        59
+        65,
+        60,
+        57
       ],
       [
-        134,
-        126,
-        130
+        132,
+        123,
+        127
       ]
     ],
     "color_names": [
@@ -3251,7 +3742,14 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "Bergschrund in Ecuador",
+      "Cotopaxi",
+      "Cotopaxi National Park",
+      "Extracted images",
+      "Self-published work",
+      "Subglacial volcanoes in Ecuador in 2022",
+      "Volcanic unrest at Cotopaxi in 2022",
+      "Volcanoes in Ecuador in 2022"
     ]
   },
   "Volc%C3%A1n%20Chimborazo%20desde%20Riobamba.jpg": {
@@ -3264,17 +3762,17 @@
       [
         123,
         125,
-        164
+        165
       ],
       [
-        85,
-        59,
-        56
+        87,
+        60,
+        57
       ],
       [
-        220,
-        205,
-        189
+        218,
+        202,
+        187
       ]
     ],
     "color_names": [
@@ -3286,15 +3784,18 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Chimborazo Province",
+      "Extracted images",
+      "Remote views of Chimborazo",
+      "Riobamba"
     ]
   },
   "Volc%C3%A1n%20Domuyo.jpg": {
     "predominant_colors": [
       [
         69,
-        64,
-        66
+        65,
+        67
       ],
       [
         77,
@@ -3307,9 +3808,9 @@
         242
       ],
       [
-        142,
+        143,
         157,
-        181
+        182
       ]
     ],
     "color_names": [
@@ -3321,7 +3822,12 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Clouds and blue sky in Argentina",
+      "Cumulus mediocris clouds",
+      "Domuyo Volcano",
+      "GFDL",
+      "Glacial erosion at volcanoes",
+      "License migration completed"
     ]
   },
   "Volc%C3%A1n%20Llaima%20y%20Laguna%20Conguill%C3%ADo%2C%20desde%20Sierra%20Nevada.jpg": {
@@ -3333,8 +3839,8 @@
       ],
       [
         111,
-        86,
-        63
+        85,
+        62
       ],
       [
         40,
@@ -3342,8 +3848,8 @@
         166
       ],
       [
-        150,
-        174,
+        149,
+        173,
         188
       ]
     ],
@@ -3356,15 +3862,31 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Conguillío Lake",
+      "Conguillío National Park",
+      "Images from Wiki Loves Earth 2018",
+      "Images from Wiki Loves Earth 2018 in Chile",
+      "Images from Wiki Loves Earth missing SDC depicts",
+      "Images from Wiki Loves Earth missing SDC location of creation",
+      "Llaima",
+      "May 2018",
+      "Self-published work",
+      "Uploaded via Campaign:wle-cl",
+      "Views of mountains in Chile",
+      "Volcanoes in Chile in 2018"
     ]
   },
   "Volc%C3%A1n%20Purac%C3%A9%20from%20Popay%C3%A1n%20-%202006.jpg": {
     "predominant_colors": [
       [
-        186,
-        216,
+        182,
+        214,
         241
+      ],
+      [
+        52,
+        61,
+        60
       ],
       [
         129,
@@ -3372,26 +3894,25 @@
         185
       ],
       [
-        41,
-        50,
-        52
-      ],
-      [
-        64,
-        74,
-        68
+        212,
+        229,
+        242
       ]
     ],
     "color_names": [
       "blanc",
+      "vert",
       "gris",
-      "noir",
-      "vert"
+      "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "GFDL",
+      "License migration completed",
+      "Media missing infobox template",
+      "Puracé National Natural Park",
+      "Puracé volcano"
     ]
   },
   "Volc%C3%A1n%20Tungurahua%20Riobamba%20-%20Ecuador.jpg": {
@@ -3403,18 +3924,18 @@
       ],
       [
         163,
-        161,
+        160,
         164
       ],
       [
-        22,
-        78,
-        131
+        21,
+        77,
+        130
       ],
       [
-        13,
+        14,
         52,
-        88
+        87
       ]
     ],
     "color_names": [
@@ -3426,42 +3947,50 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "Self-published work",
+      "Taken with Nikon D60",
+      "Tungurahua",
+      "Volcanoes in Ecuador in 2011"
     ]
   },
   "Volcan%20de%20Fuego%20y%20Acatenango.jpg": {
     "predominant_colors": [
       [
-        126,
-        161,
+        10,
+        22,
+        7
+      ],
+      [
+        99,
+        139,
         243
       ],
       [
-        5,
-        13,
-        5
+        80,
+        106,
+        110
       ],
       [
-        82,
-        103,
-        128
-      ],
-      [
-        55,
-        93,
-        31
+        164,
+        192,
+        242
       ]
     ],
     "color_names": [
-      "bleu",
       "noir",
+      "bleu",
       "gris",
-      "vert"
+      "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "montagne"
+      "2009 eruptions in Guatemala",
+      "Acatenango",
+      "Flickr images reviewed by FlickreviewR",
+      "Volcanic degassing",
+      "Volcán de Fuego",
+      "Volcán de Fuego in 2009"
     ]
   },
   "Volcan-Sangay-Ecuador.jpg": {
@@ -3477,13 +4006,13 @@
         176
       ],
       [
-        221,
+        220,
         218,
-        225
+        224
       ],
       [
-        47,
-        64,
+        46,
+        63,
         30
       ]
     ],
@@ -3496,7 +4025,13 @@
     "orientation": "paysage",
     "size_category": "grande",
     "tags": [
-      "montagne"
+      "2015 eruptions in Ecuador",
+      "Sangay",
+      "Self-published work",
+      "Subglacial eruptions in Ecuador",
+      "Subglacial volcanism of Ecuador in 2015",
+      "Volcanic eruptions in 2015",
+      "Volcanoes in Ecuador in 2015"
     ]
   }
 }
